@@ -1,7 +1,7 @@
 from pathlib import Path
 import os
 # CHANGE THIS \/
-name = "natethegoat" # might be something like "@username/package" or just "package"
+name = "tuffname" # might be something like "@username/package" or just "package"
 
 current_dir = Path('.')
 for file_path in current_dir.iterdir():
